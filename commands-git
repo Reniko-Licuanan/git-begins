@@ -1,0 +1,7 @@
+git clone URL_DU_REPOSITORY
+
+git add .
+
+git commit -m "Mon premier commit"
+
+git push
